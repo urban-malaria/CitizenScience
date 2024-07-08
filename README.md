@@ -1,1 +1,2 @@
 # CitizenScience
+The Citizen Science Malaria Initiative is a research-focused project dedicated to analyzing whether a testing business could improve access to malaria testing and treatment for children under five in Nigerian cities, primarily focusing on Kano. This initiative seeks to engage community members in data collection and reporting to enhance malaria surveillance and healthcare delivery.
